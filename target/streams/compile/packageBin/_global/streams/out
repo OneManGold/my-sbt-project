@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\mysbtproject_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\adil[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com\adil[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\adil\test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com\adil\test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\adil\test\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com\adil\test\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\adil\test\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com\adil\test\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\adil\test\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\OneMa\Documents\GitHub\test1\my-sbt-project\target\scala-2.13\classes\com\adil\test\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
